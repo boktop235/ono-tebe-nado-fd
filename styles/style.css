@@ -256,7 +256,6 @@
   grid-template-columns: 1fr 693px;
   grid-template-areas: "about__logo about__column";
   column-gap: 24px;
-  padding: 0 50px;
   padding: 154px 25px 0px 71px;
 }
 
