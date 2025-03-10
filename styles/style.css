@@ -80,8 +80,8 @@
     "left left left"
     "center center center"
     "right right right";
-  width: 1000px;
   row-gap: 23px;
+  width: 1000px;
   color: #ffffff;
   font-family: Raleway, sans-serif;
   font-weight: 700;
@@ -100,8 +100,8 @@
   grid-area: center;
   justify-self: center;
   align-self: center;
-  text-align: center;
   letter-spacing: 30%;
+  text-align: center;
 }
 
 .aligned-text_right {
@@ -112,13 +112,13 @@
 }
 
 .cover__description {
-  padding-top: 104px;
   bottom: 50px;
   display: flex;
   justify-content: space-between;
   gap: 76px;
   width: 1000px;
   margin-top: auto;
+  padding-top: 104px;
 }
 
 .cover__description-text {
@@ -213,7 +213,7 @@
   text-decoration: none;
 }
 
-.card_type{
+.card_type {
   position: relative;
   z-index: 2;
   background-repeat: no-repeat;
